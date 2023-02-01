@@ -1,0 +1,7 @@
+name: PetPlugin
+version: '${project.version}'
+main: de.legoshi.petplugin.PetPlugin
+api-version: 1.19
+prefix: PP
+authors: [ Leg0shi_ ]
+description: This plugin allows for the usage of pets. You can equip one pet at a time that gives you some special effects.
